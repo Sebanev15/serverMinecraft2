@@ -67,3 +67,14 @@
 [21Jul2025 18:17:48.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebanev15 was shot by Skeleton
 [21Jul2025 18:19:22.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebanev15 lost connection: Disconnected
 [21Jul2025 18:19:22.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebanev15 left the game
+[21Jul2025 18:23:48.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jul2025 18:23:48.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jul2025 18:23:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jul2025 18:23:48.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jul2025 18:23:48.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jul2025 18:23:49.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jul2025 18:23:49.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jul2025 18:23:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jul2025 18:23:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jul2025 18:23:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jul2025 18:23:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
