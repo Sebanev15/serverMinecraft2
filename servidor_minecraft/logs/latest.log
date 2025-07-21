@@ -61,3 +61,9 @@
 [21Jul2025 18:03:02.149] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8737 ms
 [21Jul2025 18:03:02.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.648s)! For help, type "help"
 [21Jul2025 18:03:02.168] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Jul2025 18:15:38.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebanev15[/100.104.5.8:64162] logged in with entity id 30 at (7.5, 97.0, 10.5)
+[21Jul2025 18:15:38.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebanev15 joined the game
+[21Jul2025 18:16:49.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebanev15 was shot by Skeleton
+[21Jul2025 18:17:48.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebanev15 was shot by Skeleton
+[21Jul2025 18:19:22.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebanev15 lost connection: Disconnected
+[21Jul2025 18:19:22.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebanev15 left the game
